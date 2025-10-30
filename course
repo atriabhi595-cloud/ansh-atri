@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Course Curriculum</title>
+</head>
+<body style="font-family: Arial, sans-serif; margin: 20px;">
+
+    <h1>ABES Engineering College</h1>
+    <h2>Department of ASH</h2>
+    <h3>Course Curriculum - Web Designing (25VA151)</h3>
+    <hr>
+
+    <p><b>Course Title:</b> <i>Web Designing</i></p>
+    <p><b>Faculty Name:</b> Ms. Deepti Deshmukh, Mr. Jitendra Kumar Chauhan, 
+       Mr. Sanjeev Soni, Ms. Pranshi Verma, Ms. Monika, Mr. Rohit Pratap Singh</p>
+    <p><u>Approved by:</u> AICTE, New Delhi &copy; 2025</p>
+
+    <h3>Course Objectives:</h3>
+    <ul>
+        <li>To understand the basics of HTML and CSS.</li>
+        <li>To design a simple webpage structure.</li>
+        <li>To implement various HTML elements like text, lists, and links.</li>
+    </ul>
+
+    <h3>Course Outcomes:</h3>
+    <ol>
+        <li>Apply HTML tags for webpage design.</li>
+        <li>Use formatting and list elements effectively.</li>
+        <li>Develop well-structured webpages using semantic HTML.</li>
+    </ol>
+
+    <h3>Course Modules:</h3>
+    <dl>
+        <dt><b>Module 1:</b></dt>
+        <dd>Introduction to HTML, Headings, Paragraphs, and Lists.</dd>
+        <dt><b>Module 2:</b></dt>
+        <dd>Working with Images, Links, and Tables.</dd>
+        <dt><b>Module 3:</b></dt>
+        <dd>Introduction to CSS and Layout Design.</dd>
+    </dl>
+
+    <h3>Example of Nested and Mixed Lists:</h3>
+    <ul>
+        <li>HTML Basics
+            <ol>
+                <li>Tags and Elements</li>
+                <li>Attributes</li>
+            </ol>
+        </li>
+        <li>Formatting Text
+            <ul>
+                <li><b>Bold</b></li>
+                <li><i>Italic</i></li>
+                <li><u>Underline</u></li>
+            </ul>
+        </li>
+        <li>Lists
+            <ul>
+                <li>Ordered List</li>
+                <li>Unordered List</li>
+                <li>Mixed List Example:
+                    <ol>
+                        <li>Definition List</li>
+                        <li>Nested Lists</li>
+                    </ol>
+                </li>
+            </ul>
+        </li>
+    </ul>
+
+    <hr>
+    <p><b>Note:</b> This webpage demonstrates the use of <i>text formatting</i>, 
+       <u>lists</u>, and <b>special characters</b> like &copy;, &lt;, &gt;, and &amp;.</p>
+
+</body>
+</html>
